@@ -1,0 +1,6 @@
+beautifulsoup4>=4.5.3
+ipython>=5.2.0
+jupyter>=1.0.0
+nltk>=3.2.2
+pandas>=0.19.2
+requests>=2.13.0
