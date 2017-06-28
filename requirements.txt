@@ -1,6 +1,12 @@
 beautifulsoup4>=4.5.3
+html5lib>=0.9999999
+h5py>=2.7.0
 ipython>=5.2.0
 jupyter>=1.0.0
+Keras>=2.0.5
+matplotlib>=2.0.2
+numpy>=1.13.0
 nltk>=3.2.2
 pandas>=0.19.2
 requests>=2.13.0
+tensorflow>=1.2.0
